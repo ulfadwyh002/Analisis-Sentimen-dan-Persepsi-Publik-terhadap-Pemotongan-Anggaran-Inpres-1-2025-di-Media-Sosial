@@ -73,21 +73,19 @@ Temuan ini menunjukkan bahwa sebagian publik mengaitkan efisiensi anggaran denga
 ### 3. Skeptisisme terhadap Implementasi Kebijakan
 ![Word Cloud](wourcloud2.png)
 
-Selain respons yang mendukung tujuan kebijakan, ditemukan pula percakapan yang menunjukkan **skeptisisme terhadap implementasinya**. Kemunculan frasa seperti *"omong kosong"* menunjukkan adanya keraguan terhadap efektivitas pelaksanaan kebijakan. Namun, temuan ini perlu dipahami sebagai indikasi adanya **keraguan terhadap implementasi**, bukan secara langsung sebagai penolakan terhadap tujuan efisiensi anggaran. Hal ini menunjukkan bahwa persepsi publik tidak hanya dipengaruhi oleh tujuan kebijakan, tetapi juga oleh **kepercayaan terhadap bagaimana kebijakan tersebut diterapkan**.
+Selain respons yang mendukung tujuan kebijakan, ditemukan pula percakapan yang menunjukkan **skeptisisme terhadap implementasinya**. Kemunculan frasa seperti *"omong kosong"* menunjukkan adanya keraguan terhadap efektivitas pelaksanaan kebijakan. Namun, temuan ini perlu dipahami sebagai indikasi adanya **keraguan terhadap implementasi**, bukan secara langsung sebagai penolakan terhadap tujuan efisiensi anggaran. Hal ini menunjukkan bahwa persepsi publik tidak hanya dipengaruhi oleh tujuan kebijakan, tetapi juga oleh **kepercayaan terhadap bagaimana kebijakan tersebut diterapkan.
 
 ---
+## Conclusion
 
-## Tools & Technologies
+### **Support terhadap Tujuan Kebijakan**
+Sebagian percakapan menyoroti pentingnya efisiensi, penghematan anggaran, transparansi, serta pemberantasan korupsi sebagai bagian dari tujuan kebijakan.
 
-- Python
-- Google Colab
-- Pandas
-- Text Preprocessing
-- NLP
-- Word Cloud
-- Data Visualization
+### **Skeptisisme terhadap Implementasi**
+Di sisi lain, terdapat percakapan yang mempertanyakan efektivitas pelaksanaan kebijakan dan bagaimana tujuan efisiensi tersebut dapat diwujudkan dalam praktik.
 
----
+### **Overall Insight**
+Dengan demikian, persepsi publik terhadap kebijakan efisiensi anggaran tidak hanya dapat dilihat dari perspektif **dukungan atau penolakan**, tetapi juga dari bagaimana masyarakat memandang **tujuan kebijakan dan tingkat kepercayaan terhadap implementasinya**.
 
 ## Project Type
 
@@ -110,16 +108,3 @@ My Contributed to:
 - Data understanding
 - Data preparation
 - Presentation
-
----
-
-## Conclusion
-
-### **Support terhadap Tujuan Kebijakan**
-Sebagian percakapan menyoroti pentingnya efisiensi, penghematan anggaran, transparansi, serta pemberantasan korupsi sebagai bagian dari tujuan kebijakan.
-
-### **Skeptisisme terhadap Implementasi**
-Di sisi lain, terdapat percakapan yang mempertanyakan efektivitas pelaksanaan kebijakan dan bagaimana tujuan efisiensi tersebut dapat diwujudkan dalam praktik.
-
-### **Overall Insight**
-Dengan demikian, persepsi publik terhadap kebijakan efisiensi anggaran tidak hanya dapat dilihat dari perspektif **dukungan atau penolakan**, tetapi juga dari bagaimana masyarakat memandang **tujuan kebijakan dan tingkat kepercayaan terhadap implementasinya**.
