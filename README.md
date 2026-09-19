@@ -1,0 +1,1 @@
+# Analisis-Sentimen-dan-Persepsi-Publik-terhadap-Pemotongan-Anggaran-Inpres-1-2025-di-Media-Sosial
