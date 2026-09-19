@@ -83,49 +83,29 @@ Menganalisis kecenderungan sentimen dan persepsi publik berdasarkan komentar yan
 
 ## Key Findings
 
-### 1. Respons publik meningkat setelah kebijakan diterbitkan
-![Tren Jumlah Komentar](overview.png)
+### 1. Isu Utama yang Dibahas Publik
 
-Aktivitas komentar menunjukkan adanya peningkatan respons publik dalam periode awal setelah Inpres No. 1 Tahun 2025 diterbitkan. Puncak komentar terjadi dalam sekitar 48 jam setelah kebijakan diberitakan/dibahas, yang menunjukkan adanya respons publik yang relatif cepat terhadap isu tersebut.
+![Word Cloud](Isuutama.jpeg)
 
-### 2. Efisiensi anggaran menjadi salah satu tema utama
+Berdasarkan analisis bigram, percakapan publik mengenai kebijakan efisiensi anggaran banyak berfokus pada isu **prioritas dan penggunaan anggaran pemerintah**. Hal ini menunjukkan bahwa pembahasan publik tidak hanya menyoroti kebijakan pemotongan anggaran, tetapi juga mempertanyakan bagaimana anggaran pemerintah seharusnya dialokasikan dan digunakan.
 
-Pembahasan publik banyak berkaitan dengan efisiensi anggaran, penggunaan anggaran negara, serta implementasi kebijakan pemerintah.
+### 2. Dukungan terhadap Tujuan Kebijakan
 
-### 3. Muncul dukungan terhadap tujuan kebijakan
+![Word Cloud](wourcloud1.png)
 
-![Word Cloud](wordcloud.png)
-Sebagian komentar menunjukkan respons yang mendukung tujuan efisiensi anggaran dan pemberantasan korupsi. Hal tersebut tercermin dari munculnya kata dan frasa yang berkaitan dengan:
+Sebagian percakapan menunjukkan respons yang mendukung **tujuan efisiensi anggaran dan upaya pemberantasan korupsi**. Hal tersebut tercermin dari kemunculan kata dan frasa yang berkaitan dengan:
+- Efisiensi anggaran
+- Penghematan anggaran
+- Pemberantasan korupsi
+- Transparansi
+- Penggunaan anggaran
 
-- efisiensi
-- pemberantasan korupsi
-- hemat anggaran
-- transparansi
-- penggunaan anggaran
+Temuan ini menunjukkan bahwa sebagian publik mengaitkan efisiensi anggaran dengan upaya mengurangi pemborosan serta meningkatkan transparansi dalam pengelolaan anggaran pemerintah.
 
-### 4. Skeptisisme terhadap implementasi kebijakan
+### 3. Skeptisisme terhadap Implementasi Kebijakan
+![Word Cloud](wourcloud2.png)
 
-Selain dukungan terhadap tujuan kebijakan, ditemukan pula komentar yang menunjukkan keraguan terhadap implementasinya.
-
-Kemunculan frasa seperti "omong kosong" menunjukkan adanya skeptisisme publik terhadap efektivitas pelaksanaan kebijakan.
-
-Temuan ini menunjukkan bahwa skeptisisme yang muncul lebih banyak berkaitan dengan **kepercayaan terhadap implementasi kebijakan**, bukan semata-mata penolakan terhadap tujuan efisiensi anggaran.
-
----
-
-## Main Insights
-
-Berdasarkan hasil analisis, respons publik terhadap kebijakan efisiensi anggaran menunjukkan adanya dua sisi utama:
-
-**Support terhadap tujuan kebijakan**
-
-Publik membahas pentingnya efisiensi, penghematan anggaran, serta pemberantasan korupsi.
-
-**Skeptisisme terhadap implementasi**
-
-Sebagian masyarakat mempertanyakan bagaimana kebijakan tersebut akan diterapkan dan apakah implementasinya benar-benar dapat mencapai tujuan yang diharapkan.
-
-Dengan demikian, persepsi publik tidak hanya berkaitan dengan apakah masyarakat mendukung atau menolak kebijakan, tetapi juga berkaitan dengan **tingkat kepercayaan terhadap pelaksanaan kebijakan tersebut.**
+Selain respons yang mendukung tujuan kebijakan, ditemukan pula percakapan yang menunjukkan **skeptisisme terhadap implementasinya**. Kemunculan frasa seperti *"omong kosong"* menunjukkan adanya keraguan terhadap efektivitas pelaksanaan kebijakan. Namun, temuan ini perlu dipahami sebagai indikasi adanya **keraguan terhadap implementasi**, bukan secara langsung sebagai penolakan terhadap tujuan efisiensi anggaran. Hal ini menunjukkan bahwa persepsi publik tidak hanya dipengaruhi oleh tujuan kebijakan, tetapi juga oleh **kepercayaan terhadap bagaimana kebijakan tersebut diterapkan**.
 
 ---
 
@@ -159,7 +139,6 @@ Dengan demikian, persepsi publik tidak hanya berkaitan dengan apakah masyarakat 
 **Data Analyst & Researcher**
 
 My Contributed to:
-
 - Data understanding
 - Data preparation
 - Presentation
@@ -168,4 +147,11 @@ My Contributed to:
 
 ## Conclusion
 
-Analisis komentar YouTube menunjukkan bahwa pembahasan mengenai efisiensi anggaran menghasilkan respons publik yang beragam. Publik tidak hanya membahas tujuan efisiensi dan pemberantasan korupsi, tetapi juga menyoroti aspek implementasi dan kepercayaan terhadap pelaksanaan kebijakan.
+### **Support terhadap Tujuan Kebijakan**
+Sebagian percakapan menyoroti pentingnya efisiensi, penghematan anggaran, transparansi, serta pemberantasan korupsi sebagai bagian dari tujuan kebijakan.
+
+### **Skeptisisme terhadap Implementasi**
+Di sisi lain, terdapat percakapan yang mempertanyakan efektivitas pelaksanaan kebijakan dan bagaimana tujuan efisiensi tersebut dapat diwujudkan dalam praktik.
+
+### **Overall Insight**
+Dengan demikian, persepsi publik terhadap kebijakan efisiensi anggaran tidak hanya dapat dilihat dari perspektif **dukungan atau penolakan**, tetapi juga dari bagaimana masyarakat memandang **tujuan kebijakan dan tingkat kepercayaan terhadap implementasinya**.
