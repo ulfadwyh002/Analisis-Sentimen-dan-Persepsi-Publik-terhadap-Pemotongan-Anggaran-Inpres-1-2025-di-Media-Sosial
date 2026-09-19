@@ -23,35 +23,17 @@ Project ini bertujuan untuk:
 
 ---
 
-## Research Questions
-
-Beberapa pertanyaan yang ingin dijawab melalui analisis ini adalah:
-
-- Apa isu utama yang banyak dibahas publik terkait Inpres No. 1 Tahun 2025?
-- Bagaimana sentimen publik terhadap kebijakan efisiensi anggaran?
-- Bagaimana respons publik terhadap berbagai isu yang muncul?
-- Apa ekspektasi publik terhadap implementasi kebijakan efisiensi anggaran?
-
----
-
-## Data Collection
-
-Data yang digunakan dalam project ini berupa komentar publik dari YouTube yang membahas kebijakan efisiensi anggaran berdasarkan Inpres No. 1 Tahun 2025. Data dikumpulkan dengan menggunakan kata kunci yang relevan dengan topik penelitian, kemudian komentar yang diperoleh digunakan sebagai sumber data untuk analisis teks. Total data yang dianalisis mencapai lebih dari 3.900 komentar YouTube.
-
----
-
 ## Workflow
 
 Analisis dilakukan melalui beberapa tahapan berikut:
 
 ### 1. Data Collection
 
-Mengumpulkan lebih dari 3.900 komentar YouTube yang relevan dengan pembahasan Inpres No. 1 Tahun 2025 menggunakan kata kunci terkait efisiensi anggaran.
+Data yang digunakan dalam project ini berupa komentar publik dari YouTube yang membahas kebijakan efisiensi anggaran berdasarkan Inpres No. 1 Tahun 2025. Data dikumpulkan dengan menggunakan kata kunci yang relevan dengan topik penelitian, kemudian komentar yang diperoleh digunakan sebagai sumber data untuk analisis teks. Total data yang dianalisis mencapai lebih dari 3.900 komentar YouTube.
 
 ### 2. Data Preprocessing
 
 Melakukan text preprocessing untuk mempersiapkan data sebelum dianalisis, meliputi:
-
 - Normalisasi teks
 - Penanganan slang
 - Penghapusan stopwords
@@ -61,24 +43,10 @@ Melakukan text preprocessing untuk mempersiapkan data sebelum dianalisis, melipu
 ### 3. Exploratory Text Analysis
 
 Melakukan eksplorasi terhadap data teks untuk memahami:
-
 - Distribusi komentar berdasarkan waktu
-- Kata-kata yang sering muncul
+- Kata-kata yang sering muncul (wourcloud analysis)
 - Pola pembahasan publik
 - Topik yang dominan
-
-### 4. Word Cloud Analysis
-
-Membuat word cloud untuk mengidentifikasi kata-kata yang paling sering muncul dalam komentar publik.
-
-### 5. Temporal Analysis
-
-Menganalisis pola jumlah komentar berdasarkan waktu untuk melihat perubahan intensitas respons publik terhadap kebijakan.
-
-### 6. Sentiment & Perception Analysis
-
-Menganalisis kecenderungan sentimen dan persepsi publik berdasarkan komentar yang telah diproses.
-
 ---
 
 ## Key Findings
