@@ -3,8 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-Sentiment%20Analysis-4B8BBE?style=flat)
 ![YouTube](https://img.shields.io/badge/Data%20Source-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)
-![Status](https://img.shields.io/badge/Project-Completed-success?style=flat)
-> Collaborative Project — Data Analyst & Researcher
+![Collaborative](https://img.shields.io/badge/Collaborative%20Project-3776AB?style=flat)
 
 ## Project Overview
 
