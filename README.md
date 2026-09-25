@@ -1,53 +1,34 @@
-# Analisis Sentimen dan Persepsi Publik terhadap Pemotongan Anggaran Inpres 1/2025 di Media Sosial
+
+
+# Analisis Sentimen dan Persepsi Publik terhadap Pemotongan Anggaran Inpres No. 1/2025 di Media Sosial
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-Sentiment%20Analysis-4B8BBE?style=flat)
 ![YouTube](https://img.shields.io/badge/Data%20Source-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)
 ![Collaborative](https://img.shields.io/badge/Collaborative%20Project-3776AB?style=flat)
 
-## Project Overview
+## 📌 Project Overview
 
 Instruksi Presiden (Inpres) No. 1 Tahun 2025 mengenai efisiensi anggaran belanja pemerintah pusat dan daerah memunculkan berbagai respons dari masyarakat Indonesia di media sosial. Media sosial menjadi salah satu ruang utama bagi masyarakat untuk menyampaikan pendapat, kritik, dukungan, maupun kekhawatiran terhadap suatu kebijakan. Oleh karena itu, analisis sentimen dan persepsi publik dilakukan untuk memahami bagaimana masyarakat merespons kebijakan efisiensi anggaran tersebut.
 
-> Project ini merupakan collaborative project yang berfokus pada pengolahan dan analisis data teks dari komentar YouTube untuk mengidentifikasi pola sentimen, topik pembahasan, serta persepsi publik terhadap kebijakan efisiensi anggaran.
+> Project ini merupakan **collaborative project** yang berfokus pada pengolahan dan analisis data teks dari komentar YouTube untuk mengidentifikasi pola sentimen, topik pembahasan, serta persepsi publik terhadap kebijakan efisiensi anggaran.
 
-### Tujuan
-
-Project ini bertujuan untuk:
+## 🎯 Tujuan
 
 1. Mengidentifikasi isu-isu utama yang muncul dalam pembahasan mengenai Inpres No. 1 Tahun 2025.
 2. Menganalisis sentimen publik terhadap kebijakan efisiensi anggaran.
 3. Mengidentifikasi respons publik terhadap berbagai isu yang berkaitan dengan kebijakan tersebut.
 4. Menggambarkan ekspektasi dan kekhawatiran publik terhadap implementasi kebijakan efisiensi anggaran.
 
+## 🧭 Workflow
+
+| Tahap | Deskripsi |
+|---|---|
+| **1. Data Collection** | Mengumpulkan komentar publik YouTube terkait kebijakan efisiensi anggaran (Inpres No. 1 Tahun 2025) menggunakan kata kunci relevan. Total data: **3.900+ komentar**. |
+| **2. Data Preprocessing** | Normalisasi teks, penanganan slang, penghapusan stopwords, penghapusan karakter tidak perlu, dan stemming. |
+| **3. Exploratory Text Analysis** | Eksplorasi distribusi komentar berdasarkan waktu, kata yang sering muncul (wordcloud), pola pembahasan, dan topik dominan. |
+
 ---
-
-## Workflow
-
-Analisis dilakukan melalui beberapa tahapan berikut:
-
-### 1. Data Collection
-
-Data yang digunakan dalam project ini berupa komentar publik dari YouTube yang membahas kebijakan efisiensi anggaran berdasarkan Inpres No. 1 Tahun 2025. Data dikumpulkan dengan menggunakan kata kunci yang relevan dengan topik penelitian, kemudian komentar yang diperoleh digunakan sebagai sumber data untuk analisis teks. Total data yang dianalisis mencapai lebih dari 3.900 komentar YouTube.
-
-### 2. Data Preprocessing
-
-Melakukan text preprocessing untuk mempersiapkan data sebelum dianalisis, meliputi:
-- Normalisasi teks
-- Penanganan slang
-- Penghapusan stopwords
-- Penghapusan karakter yang tidak diperlukan
-- Stemming
-
-### 3. Exploratory Text Analysis
-
-Melakukan eksplorasi terhadap data teks untuk memahami:
-- Distribusi komentar berdasarkan waktu
-- Kata-kata yang sering muncul (wourcloud analysis)
-- Pola pembahasan publik
-- Topik yang dominan
----
-
 ## Key Findings
 
 ### 1. Isu Utama yang Dibahas Publik
@@ -82,9 +63,6 @@ Sebagian percakapan menyoroti pentingnya efisiensi, penghematan anggaran, transp
 
 ### **Skeptisisme terhadap Implementasi**
 Di sisi lain, terdapat percakapan yang mempertanyakan efektivitas pelaksanaan kebijakan dan bagaimana tujuan efisiensi tersebut dapat diwujudkan dalam praktik.
-
-### **Overall Insight**
-Dengan demikian, persepsi publik terhadap kebijakan efisiensi anggaran tidak hanya dapat dilihat dari perspektif **dukungan atau penolakan**, tetapi juga dari bagaimana masyarakat memandang **tujuan kebijakan dan tingkat kepercayaan terhadap implementasinya**.
 
 ## Project Type
 
